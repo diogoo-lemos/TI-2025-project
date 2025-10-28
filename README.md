@@ -1,5 +1,5 @@
 # TI-2025-project
-Teoria da Informação:  Entropia, Informação Mútua e Codificação de Huffman
+## Teoria da Informação:  Entropia, Informação Mútua e Codificação de Huffman
 
 Projeto desenvolvido em Spyder no âmbito da unidade curricular Teoria de Informação (LEI 2025).
 O trabalho tem como objetivo explorar conceitos fundamentais da teoria de informação — entropia, informação mútua e codificação de Huffman — aplicados a um conjunto real de dados sobre o consumo de combustível de automóveis.
